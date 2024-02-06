@@ -1,0 +1,22 @@
+
+
+.custom-brown-button {
+    background-color: #8B4513; 
+    color: #ffffff; 
+    margin-right: 40px !important;
+}
+
+.navbar_scrolled {
+    background-color: black !important;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+}
+
+.custom-nav-item {
+    margin-left: 25px;
+    color: white !important;
+}
+
+.social-icons {
+    margin-left: 15px;
+}
+
